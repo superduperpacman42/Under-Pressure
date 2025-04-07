@@ -6,7 +6,7 @@ import pygame
 
 from constants import *
 
-exe = 1
+exe = 0
 
 images = {}
 audio = {}
